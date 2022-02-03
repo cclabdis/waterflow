@@ -3,7 +3,6 @@
 ## Parts list
 > Arduino (Nano) 
 > 
-> and
 > 
 > Water Flow Meter (YF-S201) - Working range 1-30L/min - Water pressure <= 1.75 MPa
 
