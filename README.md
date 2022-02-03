@@ -1,13 +1,19 @@
 # waterflowsensor
 
 ## Parts list
-> Arduino (Nano)
+> Arduino (Nano) 
+> 
+> and
+> 
 > Water Flow Meter (YF-S201) - Working range 1-30L/min - Water pressure <= 1.75 MPa
 
 ## Conections
-> Water Flow Sensor
+> Water Flow Sensor;
+> 
 > Black Wire GND to ground on Nano;
+> 
 > Red Wire VCC to 3V on Nano;
+> 
 > Yellow Wire to D3 on Nano; 
 
 ![image (1)](https://user-images.githubusercontent.com/79346301/152281940-cd1aec01-5c32-4577-ac73-0332dc75210d.png)
